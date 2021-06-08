@@ -1,4 +1,4 @@
-# Learning-Dev---Los-pipis
+# List of resources the guys and gals are currently using.
 
 Most of the resources compiled in this page are free courses we know to be useful. I have added some paid ones cause they are truly great.
 
@@ -63,6 +63,9 @@ https://www.upf.edu/hipertextnet/numero-2/diseno_web.html #User focused web desi
 
 <h2> Testing/QA </h2>
 <h2> Algoritms and Data Structures </h2>
+<h2> DevOps </h2>
+
+https://dev.to/aryaminus/auto-react-native-builds-cd-with-github-actions-and-fastlane-4nki #CI/CD guide for React Native apps using Github Actions and Fastlane
 
 <h2> Math </h2>
 
