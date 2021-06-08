@@ -2,6 +2,10 @@
 
 Most of the resources compiled in this page are free courses we know to be useful. I have added some paid ones cause they are truly great.
 
+<h2> Challenges and Certs </h2>
+
+https://www.hackerrank.com/dashboard #Try to beat HackerRank's Skill paths if you want to pass a coding technical interview
+
 <h2> Roadmap </h2>
 
 https://roadmap.sh/ # Info on the tech to learn Frontend, Backend, DevOps and more.
@@ -13,6 +17,8 @@ https://www.youtube.com/c/TechWithTim/ #Awesome guy, great explanations for begi
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ #FreeCodeCamp - the go to for anything tech
 
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA #Courses on almost any topic
+
+https://www.youtube.com/c/Fireship #Short bits on a bunch of different topics, good content on JS frameworks and Flutter.
 
 <h2> Python </h2>
 
@@ -29,7 +35,7 @@ https://www.theodinproject.com/ #What I believe is the best learning resource on
 
 https://fullstackopen.com/en/about/ #Content from the FullStack course of the University of Helsinki
 
-<h2> C++ </h2>
+<h2> C/C++ </h2>
 <h2> C# </h2>
 <h2> JAVA </h2>
 
