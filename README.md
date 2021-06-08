@@ -76,7 +76,7 @@ https://dev.to/aryaminus/auto-react-native-builds-cd-with-github-actions-and-fas
 
 <h2> Math </h2>
 
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw #Awesome channel that explains Calculus, Algebra and more in a comprehensive way (Great videos on neural networks and blockchain)
 
 <h2> Tools </h2>
 
