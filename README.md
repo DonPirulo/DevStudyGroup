@@ -42,6 +42,7 @@ https://fullstackopen.com/en/about/ #Content from the FullStack course of the Un
 
 <h2> C/C++ </h2>
 <h2> C# </h2>
+<h2> GO </h2>
 <h2> JAVA </h2>
 
 sucks
