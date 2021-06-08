@@ -1,5 +1,7 @@
 # Learning-Dev---Los-pipis
 
+The resources compiled in this page are mostly free resources we know to be usefull. I have added some paid course cause they are truly great.
+
 <h2> Roadmap </h2>
 
 https://roadmap.sh/ # Info on the tech to learn Frontend, Backend, DevOps and more.
