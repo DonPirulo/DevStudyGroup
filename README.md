@@ -1,4 +1,4 @@
-# List of resources the guys and gals are currently using.
+# List of resources for our Dev Study Group.
 
 Most of the resources compiled in this page are free courses we know to be useful. I have added some paid ones cause they are truly great.
 
