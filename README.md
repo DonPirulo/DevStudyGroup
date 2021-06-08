@@ -48,7 +48,7 @@ sucks
 
 <h2> Mobile </h2>
 
-<h2> Dart/Flutter </h2>
+<h3> Dart/Flutter </h3>
 
 https://udemy.com/course/flutter-bootcamp-with-dart #Angela Yu is one of the best code instructors I've seen.
 
