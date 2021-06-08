@@ -71,7 +71,7 @@ https://material.io/ #Material UI docs
 https://www.materialpalette.com/ #Color tool for material UI
 
 
-#TODO Upload Design general considerations (Color, Typography and Logos)
+#https://github.com/DonPirulo/Dev-Learning-group/tree/master/UIUX/general%20considerations #Design general considerations (Color, Typography and Logos)
 
 <h2> Testing/QA </h2>
 <h2> Algoritms and Data Structures </h2>
