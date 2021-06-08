@@ -6,6 +6,8 @@ Most of the resources compiled in this page are free courses we know to be usefu
 
 https://www.hackerrank.com/dashboard #Try to beat HackerRank's Skill paths if you want to pass a coding technical interview
 
+https://exercism.io/ #Coding tracks with exercises
+
 <h2> Roadmap </h2>
 
 https://roadmap.sh/ # Info on the tech to learn Frontend, Backend, DevOps and more.
@@ -58,6 +60,11 @@ https://fonts.google.com/ #Google fonts search
 https://webdesign.tutsplus.com/es/articles/8-golden-rules-for-better-interface-design--cms-30886 #Ben Shneiderman 8 usability principles
 
 https://www.upf.edu/hipertextnet/numero-2/diseno_web.html #User focused web design (Spanish)
+
+https://material.io/ #Material UI docs
+
+https://www.materialpalette.com/ #Color tool for material UI
+
 
 #TODO Upload Design general considerations (Color, Typography and Logos)
 
