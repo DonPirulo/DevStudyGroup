@@ -50,6 +50,17 @@ https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw
 https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
  
 <h2> UI/UX - Design  </h2>
+
+https://fontflipper.com/ #Free font search
+
+https://fonts.google.com/ #Google fonts search
+
+https://webdesign.tutsplus.com/es/articles/8-golden-rules-for-better-interface-design--cms-30886 #Ben Shneiderman 8 usability principles
+
+https://www.upf.edu/hipertextnet/numero-2/diseno_web.html #User focused web design (Spanish)
+
+#TODO Upload Design general considerations (Color, Typography and Logos)
+
 <h2> Testing/QA </h2>
 <h2> Algoritms and Data Structures </h2>
 
@@ -58,3 +69,9 @@ https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 
 <h2> Tools </h2>
+
+https://insomnia.rest/ #API Desing and testing tool
+
+https://www.figma.com/ #Web based design tool
+
+https://rive.app/ #Vector and Animation design tool
