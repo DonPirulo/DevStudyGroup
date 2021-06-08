@@ -46,6 +46,8 @@ https://fullstackopen.com/en/about/ #Content from the FullStack course of the Un
 
 sucks
 
+<h2> Mobile </h2>
+
 <h2> Dart/Flutter </h2>
 
 https://udemy.com/course/flutter-bootcamp-with-dart #Angela Yu is one of the best code instructors I've seen.
@@ -56,7 +58,6 @@ https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 
 https://www.youtube.com/channel/UCSLIg5O0JiYO1i2nD4RclaQ 
 
-<h2> Mobile </h2>
 <h3> Kotlin </h3>
 <h3> Swift </h3>
  
