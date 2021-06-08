@@ -28,7 +28,10 @@ https://automatetheboringstuff.com/ # Awesome book to get started with Python
 
 https://udemy.com/course/100-days-of-code/learn/ #Angela Yu course on everything python, from dummy to hero on one course
 
+https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g #Great videos on python and some of it's frameworks (Django videos recommended)
+
 https://edube.org/
+
 https://www.netacad.com/
 
 <h2> JS </h2>
