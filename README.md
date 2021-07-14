@@ -80,6 +80,15 @@ https://www.materialpalette.com/ #Color tool for material UI
 #https://github.com/DonPirulo/Dev-Learning-group/tree/master/UIUX/general%20considerations #Design general considerations (Color, Typography and Logos)
 
 <h2> Testing/QA </h2>
+
+<h2> Entrepreneurship </h2>
+
+https://www.startupschool.org/ #YCombinator Startup school
+
+https://www.coursera.org/specializations/wharton-entrepreneurship #Wharton entrepreneurship courses
+
+
+
 <h2> Algoritms and Data Structures </h2>
 <h2> DevOps </h2>
 
