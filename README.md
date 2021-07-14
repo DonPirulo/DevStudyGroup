@@ -4,7 +4,7 @@ Most of the resources compiled in this page are free courses we know to be usefu
 
 <h2> Challenges and Certs </h2>
 
-https://www.hackerrank.com/dashboard #Try to beat HackerRank's Skill paths if you want to pass a coding technical interview
+https://www.hackerrank.com/dashboard #Try to beat HackerRank's Skill paths if you want to pass a technical coding interview
 
 https://exercism.io/ #Coding tracks with exercises
 
