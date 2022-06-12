@@ -12,7 +12,7 @@ https://exercism.io/ #Coding tracks with exercises
 
 https://roadmap.sh/ # Info on the tech to learn Frontend, Backend, DevOps and more.
 
-<h2>Learning channels with several languajes </h2>
+<h2>Learning channels with several languages </h2>
 
 https://www.youtube.com/c/TechWithTim/ #Awesome guy, great explanations for beginners topics and amazing projects to follow along.
 
